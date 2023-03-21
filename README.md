@@ -1,5 +1,5 @@
-<h1 align="center"> # Individual5 - Resilia/Senac </h1>
-Trabalho individual módulo 5 do curso Programadores Cariocas.
+<h1 align="center"> # Projeto Individual - Módulo 5 - Resilia/Senac </h1>
+Trabalho individual do módulo 5 do curso Programadores Cariocas.
 
 ## Proposta do trabalho:
 Proposta do trabalho:
