@@ -23,7 +23,7 @@ Recebemos a mensagem de confirmação "Propriedade adicionada" e percebemos que 
 
 Em seguida setamos o texto "background-color":
 
-![image](https://user-images.githubusercontent.com/83782674/224347681-fbc40435-231a-4987-885d-d04c13a4fc86.png)
+![Screenshot_3](https://user-images.githubusercontent.com/113736997/226754296-bd77dfc8-2ab6-43d8-91c8-633b5666aa23.png)
 
 Percebemos que após receber o texto "background-color" o array já se reordenou de forma correta.
 
