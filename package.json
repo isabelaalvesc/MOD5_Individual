@@ -4,7 +4,7 @@
     "prompt": "^1.3.0",
     "prompt-sync": "^4.2.0"
   },
-  "name": "MOD5_Individual",
+  "name": "mod5_individual",
   "description": "Projeto individual módulo 5",
   "version": "1.0.0",
   "main": "script.js",
