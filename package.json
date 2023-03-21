@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "prompt": "^1.3.0",
+    "prompt-sync": "^4.2.0"
+  },
+  "name": "MOD5_Individual",
+  "description": "Projeto individual módulo 5",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isabelaalvesc/MOD5_Individual.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isabelaalvesc/MOD5_Individual/issues"
+  },
+  "homepage": "https://github.com/isabelaalvesc/MOD5_Individual#readme"
+}
